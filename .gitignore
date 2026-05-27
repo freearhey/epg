@@ -14,3 +14,7 @@
 
 # macOS
 .DS_Store
+
+/public/guide.xml
+/public/guide.xml.gz
+/public/guide.json
